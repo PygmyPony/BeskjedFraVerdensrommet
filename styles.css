@@ -1,0 +1,28 @@
+html,
+body {
+    padding: 0;
+    margin: 20px;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+}
+.frame {
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 5px;
+    border: 1px solid black ;
+    background-color: rgba(222, 184, 135, 0.226);   
+}
+#question-1-frame {
+    display: none;
+}
+#question-2-frame {
+    display: none;
+}
+#final-screen {
+    display: none;
+}
+.input {
+    text-align: center;
+}
